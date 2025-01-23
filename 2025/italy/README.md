@@ -25,3 +25,8 @@ https://www.amat-mi.it/downloads/gtfs/gtfs.zip
 #### Published Permalink
  * https://furuhashilab.github.io/opengtfsdataset/2025/italy/monza_gtfs_static_2025-01-23a.zip
 
+---
+
+# Appendix
+## GTFS | Agenzia TPL
+ * https://www.agenziatpl.it/open-data/gtfs
