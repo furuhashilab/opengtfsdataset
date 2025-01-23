@@ -17,4 +17,4 @@ https://dati.comune.milano.it/gtfs.zip
 https://www.amat-mi.it/downloads/gtfs/gtfs.zip
 
 #### License
- * CC BY 4.0
+ * © AMAT_Milan, http://www.amat-mi.it, CC BY 4.0
