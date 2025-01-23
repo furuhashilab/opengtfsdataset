@@ -1,7 +1,7 @@
 # opengtfsdataset
 オープンデータのGTFSデータをアーカイブしています。あくまで実験用なので未保証です。CORS対応など、"Access-Controll-Allow-Origin: *" レスポンスヘッダーが付いていないデータや、アクセス制限がかかっているデータを試験的に再配布しています。
 
-## Italy
+## Italy 🇮🇹
 https://github.com/furuhashilab/opengtfsdataset/tree/main/2025/italy
 
 
