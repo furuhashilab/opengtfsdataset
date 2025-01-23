@@ -9,3 +9,6 @@ https://dati.comune.milano.it/gtfs.zip
 
 * Historic GTFS: 
 https://www.amat-mi.it/downloads/gtfs/gtfs.zip
+
+### License
+CC BY 4.0
