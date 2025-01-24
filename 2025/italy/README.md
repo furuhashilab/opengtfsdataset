@@ -8,6 +8,7 @@
 
 #### Realtime
  * https://dati.comune.roma.it/catalog/dataset/a7dadb4a-66ae-4eff-8ded-a102064702ba/resource/d2b123d6-8d2d-4dee-9792-f535df3dc166/download/rome_vehicle_positions.pb
+ * https://furuhashilab.github.io/opengtfsdataset/2025/italy/roma_gtfs_realtime_2025-01-24a.pb
 
 #### Source
  * https://dati.comune.roma.it/catalog/dataset/c_h501-d-9000
