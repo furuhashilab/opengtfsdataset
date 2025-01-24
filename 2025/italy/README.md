@@ -18,3 +18,29 @@ https://www.amat-mi.it/downloads/gtfs/gtfs.zip
 
 #### License
  * © AMAT_Milan, http://www.amat-mi.it, CC BY 4.0
+
+
+## Monza
+### NET Nord Est Trasporti Srl
+#### Published Permalink
+ * https://furuhashilab.github.io/opengtfsdataset/2025/italy/monza_gtfs_static_2025-01-23a.zip
+
+#### Source
+ * Current Static GTFS: 
+https://usbshare.agenziatpl.it/index.php/s/cSswJyLgEGsYp7p
+
+#### License
+
+
+## Roma
+### Dati del Trasporto Pubblico
+https://dati.comune.roma.it/catalog/dataset/c_h501-d-9000
+
+
+
+
+---
+
+# Appendix
+## GTFS | Agenzia TPL
+ * https://www.agenziatpl.it/open-data/gtfs
