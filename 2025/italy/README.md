@@ -57,7 +57,7 @@ https://usbshare.agenziatpl.it/index.php/s/cSswJyLgEGsYp7p
 
 
 ## Bologna
- * Trasporto Passeggeri Emilia Romagna 
+ * [Trasporto Passeggeri Emilia Romagna](https://solweb.tper.it/web/tools/open-data/open-data-detail.aspx?source=&filename=gommagtfsbo) 
 #### Published Permalink
  * Latest: https://github.com/furuhashilab/opengtfsdataset/blob/main/2025/italy/bologna_gtfs_static.zip
  * https://github.com/furuhashilab/opengtfsdataset/blob/main/2025/italy/bologna_gtfs_static_2025-06-12a.zip
