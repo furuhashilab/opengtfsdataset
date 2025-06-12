@@ -1,6 +1,6 @@
 # README for Italy 🇮🇹
 
-## Roma
+## 1. Roma
 
 ### Roma Servizi per la Mobilità
 #### Published Permalink
@@ -19,10 +19,14 @@
 https://dati.comune.roma.it/catalog/dataset/c_h501-d-9000
 
 
-## Milano
+## 2. Milano
 
 ### Azienda Trasporti Milanesi (ATM)
 #### Published Permalink
+ * Latest: https://furuhashilab.github.io/opengtfsdataset/2025/italy/milano_gtfs_static.zip
+ * https://furuhashilab.github.io/opengtfsdataset/2025/italy/milano_gtfs_static_2025-06-12a.zip
+ * https://furuhashilab.github.io/opengtfsdataset/2025/italy/milano_gtfs_static_2025-05-08a.zip
+ * https://furuhashilab.github.io/opengtfsdataset/2025/italy/milano_gtfs_static_2025-02-25a.zip
  * https://furuhashilab.github.io/opengtfsdataset/2025/italy/milano_gtfs_static_2025-01-23a.zip
  * https://furuhashilab.github.io/opengtfsdataset/2025/italy/milano_gtfs_static_2025-01-22a.zip
 
@@ -55,7 +59,8 @@ https://usbshare.agenziatpl.it/index.php/s/cSswJyLgEGsYp7p
 ## Bologna
  * Trasporto Passeggeri Emilia Romagna 
 #### Published Permalink
- * https://github.com/furuhashilab/opengtfsdataset/blob/main/2025/italy/bologna_gtfs_static.zip
+ * Latest: https://github.com/furuhashilab/opengtfsdataset/blob/main/2025/italy/bologna_gtfs_static.zip
+ * https://github.com/furuhashilab/opengtfsdataset/blob/main/2025/italy/bologna_gtfs_static_2025-06-12a.zip
 
 #### Source
  * Current Static GTFS: 
