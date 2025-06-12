@@ -15,6 +15,10 @@
  * https://dati.comune.roma.it/catalog/dataset/c_h501-d-9000/resource/d2b123d6-8d2d-4dee-9792-f535df3dc166
 
 
+### Dati del Trasporto Pubblico
+https://dati.comune.roma.it/catalog/dataset/c_h501-d-9000
+
+
 ## Milano
 
 ### Azienda Trasporti Milanesi (ATM)
@@ -47,12 +51,18 @@ https://usbshare.agenziatpl.it/index.php/s/cSswJyLgEGsYp7p
 #### License
 
 
-## Roma
-### Dati del Trasporto Pubblico
-https://dati.comune.roma.it/catalog/dataset/c_h501-d-9000
 
+## Bologna
+ * Trasporto Passeggeri Emilia Romagna 
+#### Published Permalink
+ * https://github.com/furuhashilab/opengtfsdataset/blob/main/2025/italy/bologna_gtfs_static.zip
 
+#### Source
+ * Current Static GTFS: 
+https://solweb.tper.it/web/tools/open-data/open-data-detail.aspx?source=&filename=gommagtfsbo
 
+#### License
+ * © Trasporto Passeggeri Emilia Romagna , CC BY 3.0 Italy
 
 ---
 
